@@ -21,7 +21,7 @@ const Hero = ({ portfolioData }) => (
         <a href="#projects" className="px-8 py-3.5 bg-sky-500 text-white font-medium rounded-xl hover:bg-sky-400 hover:shadow-[0_0_20px_rgba(56,189,248,0.4)] transition-all duration-300 w-full sm:w-auto">
           View Projects
         </a>
-        <a href="/ankitre.pdf" download="Ankit-Dhakad-Resume.pdf" className="px-8 py-3.5 bg-slate-800 text-white font-medium rounded-xl border border-slate-700 hover:bg-slate-700 transition-all duration-300 flex items-center justify-center gap-2 w-full sm:w-auto">
+        <a href="/final_resumw.pdf" download="Ankit-Dhakad-Resume.pdf" className="px-8 py-3.5 bg-slate-800 text-white font-medium rounded-xl border border-slate-700 hover:bg-slate-700 transition-all duration-300 flex items-center justify-center gap-2 w-full sm:w-auto">
           <FileText size={18} /> Download Resume
         </a>
       </div>

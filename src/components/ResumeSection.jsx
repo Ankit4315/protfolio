@@ -17,7 +17,7 @@ const ResumeSection = ({ linkedin }) => (
         </p>
         
         <div className="flex flex-col sm:flex-row justify-center gap-4">
-          <a href="/ankitre.pdf" download="Ankit-Dhakad-Resume.pdf" className="px-8 py-4 bg-white text-slate-900 font-bold rounded-xl hover:bg-sky-50 transition-colors flex items-center justify-center gap-2 group">
+          <a href="/final_resumw.pdf" download="Ankit-Dhakad-Resume.pdf" className="px-8 py-4 bg-white text-slate-900 font-bold rounded-xl hover:bg-sky-50 transition-colors flex items-center justify-center gap-2 group">
             <Download size={20} className="group-hover:-translate-y-1 transition-transform" />
             Download Resume (PDF)
           </a>
